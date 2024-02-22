@@ -1,6 +1,6 @@
 cd flashtype
 npm start
-
+Application to check your typing speed made from scratch
 
 # Getting Started with Create React App
 
